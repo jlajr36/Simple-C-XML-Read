@@ -1,2 +1,2 @@
 # Simple-C-XML-Read
-Simple C# prpgram to Read XML File
+Simple C# GUI prpgram to Read XML File
